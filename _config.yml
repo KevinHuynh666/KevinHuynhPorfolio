@@ -28,7 +28,7 @@ url: "http://KevinHuynh666.github.io" # the base hostname & protocol for your si
 github_username:  KevinHuynh666
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
