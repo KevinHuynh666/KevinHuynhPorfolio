@@ -14,7 +14,7 @@ To showcase my knowledge in real world projects, I have listed under "Working Ex
 
 ###### Auxiliary team
 
-Git: [link](https://github.com/KevinHuynh666/component-store)
+Git: [link](https://github.com/KevinHuynh666/component-store)  
 This project was a part of my Design Camp's internship for QUT Motorsport Club. The main focus of the project is: developing a web app with basic front-end to manage electrical components from a database to easily keep track of components in the workshop's drawers. User needs to be able to scan the drawer (with QR code) to ge the component's information.
 This was a pair project, with me responsible for the Front-End and my partner taking care of the back-end. My framework of choice was ReactJS and NextJS. Additional CSS library like Tailwind was used to decorate our website.
 
@@ -30,7 +30,8 @@ Tiikr is a software company utilizing in creating digital forms for web and mobi
 
 ###### WordPress Developer Internship
 
-This was a personal project. The website of UnitedBioscience was attacked by hacker few months ago. Tiikr was the original designer of this website, so when it got attacked the company contacted Tiikr. This was rebuilt with WordPress along with E-Commerce extension.
+This was a personal project. The website of UnitedBioscience was attacked by hacker few months ago. Tiikr was the original designer of this website, so when it got attacked the company contacted Tiikr. This was rebuilt with WordPress along with E-Commerce and other extensions.  
+[New website](https://www.unitedbiosciences.com.au/)
 
 ## Personal Projects
 
@@ -38,10 +39,19 @@ This was a personal project. The website of UnitedBioscience was attacked by hac
 
 ##### Time: February 2020 - May 2020
 
+Git: [link](https://github.com/KevinHuynh666/Billboard-Management-System)  
+A project completed in a team of four using Java. The application consists of 3 parts: A Server(Socket.io and SQLLite), a Viewer (Swing) and a Control Panel (pure Java). My responsibility was implementing the Control Panel, helped with some coding part in implementing Server part and unit test (with JUnit). The project focused on Test-Driven Development and continuous integration (using Agile/Scrum method). We also used Atlassian as our main Collaboration tool.
+
 ### Movie Management System
 
 ##### Time: February 2020 - May 2020
 
+Git: [link](https://github.com/KevinHuynh666/MovieLibraryManagement)
+An individual project written in C#. The console application focused on Algorithm implementing using OOP concept as well as Tree data structure. Please check the GitHub link for further information.
+
 ### Travelling Salesman Problem Solver
 
-##### Time: February 2020 - May 2020
+##### Time: April 2019 – May 2019
+
+Git: [link](https://github.com/KevinHuynh666/TSP)
+An individual project written in C#. This was a console application used to solve the TSP, with 3 completed implementations and 1 optimised one. The main focus was solving the problem with multiple complexity levels.
