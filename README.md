@@ -53,12 +53,12 @@ A project completed in a team of four using Java. The application consists of 3 
 
 ##### Time: February 2020 - May 2020
 
-Git: [link](https://github.com/KevinHuynh666/MovieLibraryManagement)
+Git: [link](https://github.com/KevinHuynh666/MovieLibraryManagement)  
 An individual project written in C#. The console application focused on Algorithm implementing using OOP concept as well as Tree data structure. Please check the GitHub link for further information.
 
 ### Travelling Salesman Problem Solver
 
 ##### Time: April 2019 – May 2019
 
-Git: [link](https://github.com/KevinHuynh666/TSP)
+Git: [link](https://github.com/KevinHuynh666/TSP)  
 An individual project written in C#. This was a console application used to solve the TSP, with 3 completed implementations and 1 optimised one. The main focus was solving the problem with multiple complexity levels.
