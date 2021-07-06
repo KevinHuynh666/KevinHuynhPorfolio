@@ -35,6 +35,13 @@ This was a personal project. The website of UnitedBioscience was attacked by hac
 
 ## Personal Projects
 
+### Data Warehouse Project
+
+##### Time: March 2021 - April 2021
+
+Git: [link](https://github.com/KevinHuynh666/CAB430_Assignment1)  
+This was a personal project. Design a database schema from scratch and implement, deploy the database using Microsoft SQL Server Management Studio and Visual Studio. For designing the database, I chose star schema since the data is small and simple; then creating the database using SQL script. Then, I developed an SQL Server Integration Services (SSIS) - using Visual Studio - to perform ETL (Extract Transform Load) on the data source to put them into the database. And finally, I created an OLAP cube for the users/customers in order to view the data base on their requirements.
+
 ### Digital Billboard Management System
 
 ##### Time: February 2020 - May 2020
